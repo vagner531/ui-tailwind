@@ -1,4 +1,4 @@
-<img align="right" src="src/assets/tailwind.png" width="40px" alt="twitter">
+<img align="right" src="src/assets/tailwind-logo.png" width="40px" alt="twitter">
 
 ## Tópicos 
 
