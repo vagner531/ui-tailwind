@@ -14,7 +14,7 @@
 
 ## Sobre o tailwind
 
-Este projeto é um clone do Twitter, construído utilizando a biblioteca ReactJS com TypeScript, Vite e CSS. O objetivo deste projeto é mostrar minhas habilidades em desenvolvimento web e fornecer um exemplo funcional de uma plataforma de mídia social. O projeto inclui muitos dos recursos principais do Twitter, como perfis de usuário, tweets, retweets, curtidas e comentários.
+Este é um projeto de recriação da interface do Protocol API Reference, utilizando as tecnologias Next.js, Tailwind CSS e TypeScript. O objetivo é oferecer uma experiência de usuário mais intuitiva e moderna para os desenvolvedores que utilizam a documentação do Protocolo.
 
 <br>
 
