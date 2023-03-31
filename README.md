@@ -26,7 +26,6 @@ Este é um projeto de recriação da interface do Protocol API Reference, utiliz
 
 Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
 
-- [React](https://reactjs.org/)
 - [Nextjs](https://nextjs.org/)
 - [Tailwind](https://tailwindcss.com/)
 - [TypeScript](https://www.typescriptlang.org/)
