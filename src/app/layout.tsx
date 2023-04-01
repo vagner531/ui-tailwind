@@ -21,11 +21,13 @@ export default function RootLayout({
       <body className="bg-zinc-900">
         <Sidebar />
 
-        <div className="">
+        <div className="ml-80 relative h-screen">
           <Header />
           <HeroPattern />
 
-          {children}
+          <div className="py-24 max-w-4xl px-8 mx-auto">
+            {children}
+          </div>
         </div>
       </body>
     </html>
